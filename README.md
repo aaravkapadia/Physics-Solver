@@ -8,4 +8,4 @@ Force class- This class inherets from the vector class in order to use the vecto
 
 Friction class- The reason for the creation of an entire seperate friction class is because it correlates to a seperate chapter in the physics course. Its 1 function calculates the force of friction given the mass of the object and the angle of elevation.
 
-
+Work Class- This class also inherets from the Vector class. Given a distance and a force vector, it can calculate the work the object did. Given the mass, and the final and initial velocity of an object it can calculate the work an object did. Given the power and time, it can calculate work. Given a force and velocity vector and it can find the cross product of the two which is the power of an object. It can also find potential energy, and the energy lost between kinetic and potential energy.
